@@ -1,0 +1,15 @@
+E:\github\LazyLBS\LazyLBS\LazyLBSTest\bin\Debug\netcoreapp3.1\LazyLBSTest.exe
+E:\github\LazyLBS\LazyLBS\LazyLBSTest\bin\Debug\netcoreapp3.1\LazyLBSTest.deps.json
+E:\github\LazyLBS\LazyLBS\LazyLBSTest\bin\Debug\netcoreapp3.1\LazyLBSTest.runtimeconfig.json
+E:\github\LazyLBS\LazyLBS\LazyLBSTest\bin\Debug\netcoreapp3.1\LazyLBSTest.runtimeconfig.dev.json
+E:\github\LazyLBS\LazyLBS\LazyLBSTest\bin\Debug\netcoreapp3.1\LazyLBSTest.dll
+E:\github\LazyLBS\LazyLBS\LazyLBSTest\bin\Debug\netcoreapp3.1\LazyLBSTest.pdb
+E:\github\LazyLBS\LazyLBS\LazyLBSTest\bin\Debug\netcoreapp3.1\RestSharp.dll
+E:\github\LazyLBS\LazyLBS\LazyLBSTest\bin\Debug\netcoreapp3.1\LazyLBS.dll
+E:\github\LazyLBS\LazyLBS\LazyLBSTest\bin\Debug\netcoreapp3.1\LazyLBS.pdb
+E:\github\LazyLBS\LazyLBS\LazyLBSTest\obj\Debug\netcoreapp3.1\LazyLBSTest.csprojAssemblyReference.cache
+E:\github\LazyLBS\LazyLBS\LazyLBSTest\obj\Debug\netcoreapp3.1\LazyLBSTest.AssemblyInfoInputs.cache
+E:\github\LazyLBS\LazyLBS\LazyLBSTest\obj\Debug\netcoreapp3.1\LazyLBSTest.AssemblyInfo.cs
+E:\github\LazyLBS\LazyLBS\LazyLBSTest\obj\Debug\netcoreapp3.1\LazyLBSTest.csproj.CopyComplete
+E:\github\LazyLBS\LazyLBS\LazyLBSTest\obj\Debug\netcoreapp3.1\LazyLBSTest.dll
+E:\github\LazyLBS\LazyLBS\LazyLBSTest\obj\Debug\netcoreapp3.1\LazyLBSTest.pdb

@@ -1,0 +1,7 @@
+E:\github\LazyLBS\LazyLBS\LazyLBS\obj\Debug\netcoreapp3.1\LazyLBS.AssemblyInfoInputs.cache
+E:\github\LazyLBS\LazyLBS\LazyLBS\obj\Debug\netcoreapp3.1\LazyLBS.AssemblyInfo.cs
+E:\github\LazyLBS\LazyLBS\LazyLBS\bin\Debug\netcoreapp3.1\LazyLBS.deps.json
+E:\github\LazyLBS\LazyLBS\LazyLBS\bin\Debug\netcoreapp3.1\LazyLBS.dll
+E:\github\LazyLBS\LazyLBS\LazyLBS\bin\Debug\netcoreapp3.1\LazyLBS.pdb
+E:\github\LazyLBS\LazyLBS\LazyLBS\obj\Debug\netcoreapp3.1\LazyLBS.dll
+E:\github\LazyLBS\LazyLBS\LazyLBS\obj\Debug\netcoreapp3.1\LazyLBS.pdb
